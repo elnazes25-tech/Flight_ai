@@ -1,0 +1,1 @@
+2025-12-28 18:10:33.695377 | INPUT: پرواز ارزون از tehran به istanbul زیر300 | FROM: TEHRAN | TO: ISTANBUL | RESULT: BEST: TEHRAN->ISTANBUL 23:10 410
